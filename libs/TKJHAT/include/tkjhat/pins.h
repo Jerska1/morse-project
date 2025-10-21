@@ -40,6 +40,7 @@ SOFTWARE.
 #define BUTTON2                                 SW2_PIN
 
 #define RED_LED_PIN                             14
+#define LED1                                    RED_LED_PIN
 
 #define RGB_LED_R                               18
 #define RGB_LED_G                               19
@@ -52,4 +53,4 @@ SOFTWARE.
 
 #define VEML6030_INTERRUPT                      9
 #define HDC2021_INTERRUPT                       21
-
+#define ICM42670_INT                            6
